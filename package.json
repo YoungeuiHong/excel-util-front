@@ -4,7 +4,9 @@
   "description": "A library for exporting and importing Excel",
   "main": "./dist/index.umd.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
   },
   "repository": {
     "type": "git",
