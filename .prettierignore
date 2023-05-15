@@ -1,0 +1,13 @@
+**/.changeset
+**/dist
+**/build
+**/coverage
+
+**/.md
+**/.txt
+**/.yml
+**/.svg
+**/.yaml
+**/.lock
+**/.git
+**/node_modules
